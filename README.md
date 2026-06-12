@@ -1,45 +1,47 @@
-<h1 align="center">Hi 👋, I'm Mustafa Berat</h1>
-<h3 align="center">A passionate Software Engineer from Turkey</h3>
+<h1 align="center">Hi 👋, I'm Mustafa Berat Demirci</h1>
+<h3 align="center">Full-Stack Developer from Turkey 🇹🇷 — React · Next.js · TypeScript</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaberatdemirci&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaberatdemirci" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://mustafaberatdemirci.itch.io](https://mustafaberatdemirci.itch.io)
-
-- 💬 Ask me about **C#, Unity, Graphic API's**
-
-- 📫 How to reach me **mustafaberatdemirci@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mustafaberatdemirci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafaberatdemirci" height="30" width="40" /></a>
-<a href="https://instagram.com/mstfbrtdmrc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mstfbrtdmrc" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mustafaberatdemirci&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+- 🔭 I build **real, production client products**: audit & reporting platforms, stock & inventory systems, dashboards and corporate websites.
+- ⚡ Focused on **Next.js, React, TypeScript, Supabase/PostgreSQL and Tailwind CSS** — plus Electron desktop apps, Python automation tools and Unity games.
+- 🌱 Currently working with **AI-powered products (Claude, Gemini)** and performant, multilingual web applications.
+- 📫 Reach me at **mustafaberatdemirci@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafaberatdemirci&show_icons=true&locale=en&layout=compact" alt="mustafaberatdemirci" /></p>
+<h3 align="left">🚀 Featured Projects</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafaberatdemirci&show_icons=true&locale=en" alt="mustafaberatdemirci" /></p>
+| Project | Description | Tech | Live |
+|---|---|---|---|
+| **Restoart Denetim** | Mystery-shopper audit & reporting platform (offline-first PWA, role-based) | Next.js · PostreSQL · Gemini | [🔗](https://denetim.restoartdanismanlik.com/) |
+| **DepoTrack** | Industrial inventory & logistics command center | Next.js · Zustand · React Query | [🔗](https://depo.mustafaberatdemirci.com.tr) |
+| **Fiero Stock System** | Stock-order & payment system for a coffee chain (real client) | React · Vite · React Query | [🔗](https://siparis.fierocoffee.com) |
+| **Endsight** | Web3 crypto-intelligence platform — Solana wallet, AI insights & live charts (team project) | Next.js · Solana/Web3 · AI SDK | [🔗](https://esapp-frontend-staging.vercel.app) |
+| **Kızılcagün Subscriber Manager** | Desktop app for subscriber management, newsletters & bulk SMS (offline-first) | Electron · React · SQLite | 💻 Desktop |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaberatdemirci&" alt="mustafaberatdemirci" /></p>
+<h3 align="left">🛠️ Tech Stack</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,postgres,supabase,prisma,electron,python,cs,dotnet,unity,git&perline=8" />
+</p>
 
+<h3 align="left">📊 GitHub Stats</h3>
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafaberatdemirci&show_icons=true&locale=en&layout=compact" alt="top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mustafaberatdemirci&show_icons=true&locale=en" alt="github stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaberatdemirci&theme=default" alt="streak" />
+</p>
 
+<h3 align="left">🤝 Let's Connect</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge" alt="open to work" />
+</p>
+<p align="left">
+  <a href="mailto:mustafaberatdemirci@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/mustafaberatdemirci" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/mstfbrtdmrc" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://mustafaberatdemirci.itch.io" target="_blank"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
+</p>
 
-
-
-
-<!--
-**mustafaberatdemirci/mustafaberatdemirci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
