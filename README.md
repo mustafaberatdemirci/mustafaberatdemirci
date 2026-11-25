@@ -16,7 +16,7 @@
 | Project | Description | Tech | Live |
 |---|---|---|---|
 | **Restoart Denetim** | Mystery-shopper audit & reporting platform (offline-first PWA, role-based) | Next.js · PostgreSQL · Gemini | [🔗](https://denetim.restoartdanismanlik.com/) |
-| **Mağaza Denetim** | Store-audit tracking platform — 12 inspection types across 9 stores (offline-first PWA) | Next.js · Supabase · PWA | [🔗](https://bim.mustafaberatdemirci.com.tr/) |
+| **Mağaza Denetim** | Store-audit tracking platform — 12 inspection types across 5 stores (offline-first PWA) | Next.js · Supabase · PWA | [🔗](https://bim.mustafaberatdemirci.com.tr/) |
 | **DepoTrack** | Industrial inventory & logistics command center | Next.js · Zustand · React Query | [🔗](https://depo.mustafaberatdemirci.com.tr) |
 | **Fiero Stock System** | Stock-order & payment system for a coffee chain (real client) | React · Vite · React Query | [🔗](https://fieroadmin.mustafaberatdemirci.com.tr/) |
 | **Endsight** | Web3 crypto-intelligence platform — Solana wallet, AI insights & live charts (team project) | Next.js · Solana/Web3 · AI SDK | [🔗](https://endsight.mustafaberatdemirci.com.tr/) |
@@ -43,7 +43,9 @@
 <p align="left">
   <a href="https://mustafaberatdemirci.com.tr" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:mustafaberatdemirci@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/mustafaberatdemirci" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/mustafa-berat-demirci/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/mstfbrtdmrc" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://mustafaberatdemirci.itch.io" target="_blank"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
 </p>
+
+<!-- Generated from the Portfolio repo (content/profile.json + content/projects). Do not edit by hand. -->
